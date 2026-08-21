@@ -33,9 +33,12 @@ Sitemap
 * `contact.html` - Physical store addresses, contact details, and layout.
 
 Changelog
-* v1.0: Initial project file structure created with NetBeans, including `css`, `js`, and `images` folders.
+* v1.0: First project file created with NetBeans, including `css`, `js`, and `images` folders.
 * v1.1: Developed all five HTML pages using semantic tags and structural comments.
-* v1.2: Implemented global external stylesheet (`styles.css`) featuring a custom dark mode and yellow accent palette.
+* v1.3: Had to fix a common error across all HTML pages due to an oversight.
+* v1.4: Implemented global external stylesheet (`styles.css`) featuring a custom dark mode and yellow accent palette.
+* v1.5: Changed README within project to an `md` file.
+* v1.6: Fixed minor spelling errors within README for better presentation.
 
-Rferences
+References
 * Readers Den Comic Shop. Official Website and Store Information. Available online.
