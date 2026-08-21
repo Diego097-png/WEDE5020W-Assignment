@@ -7,7 +7,7 @@ Student Information
 * WEDE5020
 
 Project Overview
-Readers Den Comic Shop is an established retailer specializing in imported US comic books, manga, and pop-culture collectibles. This website project provides an online platform to showcase store locations, merchandise catalogs, and back-order enquiry services.
+Readers Den Comic Shop is an established retailer specializing in imported US comic books, manga, and pop-culture collectibles. This website project provides an online platform to showcase store locations, merchandise catalogues, and back-order enquiry services.
 
 Website Goals and Objectives
 * Provide clear information about physical store locations and operating hours.
