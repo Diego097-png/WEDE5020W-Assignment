@@ -7,7 +7,7 @@ Student Information
 * WEDE5020
 
 Project Overview
-Readers Den Comic Shop is an established retailer specializing in imported US comic books, manga, and pop-culture collectibles. This website project provides an online platform to showcase store locations, merchandise catalogues, and back-order enquiry services.
+Readers Den Comic Shop is an established retailer specializing in imported US comic books, manga, and pop-culture collectibles. This website project provides an online platform to showcase store locations, merchandise catalogs, and back-order enquiry services.
 
 Website Goals and Objectives
 * Provide clear information about physical store locations and operating hours.
@@ -33,12 +33,9 @@ Sitemap
 * `contact.html` - Physical store addresses, contact details, and layout.
 
 Changelog
-* v1.0: First project file created with NetBeans, including `css`, `js`, and `images` folders.
+* v1.0: Initial project file structure created with NetBeans, including `css`, `js`, and `images` folders.
 * v1.1: Developed all five HTML pages using semantic tags and structural comments.
-* v1.3: Had to fix a common error across all HTML pages due to an oversight.
-* v1.4: Implemented global external stylesheet (`styles.css`) featuring a custom dark mode and yellow accent palette.
-* v1.5: Changed README within project to an `md` file.
-* v1.6: Fixed minor spelling errors within README for better presentation.
+* v1.2: Implemented global external stylesheet (`styles.css`) featuring a custom dark mode and yellow accent palette.
 
-References
+Rferences
 * Readers Den Comic Shop. Official Website and Store Information. Available online.
