@@ -1,0 +1,8 @@
+{
+    "name": "Readers_Den_Website",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "SsjTD",
+    "contributors": [],
+    "dependencies": {}
+}
