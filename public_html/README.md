@@ -32,10 +32,29 @@ Sitemap
 * `enquiry.html` - Customer back-order and product enquiry form.
 * `contact.html` - Physical store addresses, contact details, and layout.
 
+Responsive Design & Testing Evidence
+* Desktop View: Multi-column layout featuring a horizontal flexbox navigation bar and header hierarchy.
+* Tablet View: Scaled elements that maintain visual clarity
+* Mobile View: Single-colum vertical layout with stacked navigation links using max width breakpoints.
+
 Changelog
 * v1.0: Initial project file structure created with NetBeans, including `css`, `js`, and `images` folders.
 * v1.1: Developed all five HTML pages using semantic tags and structural comments.
 * v1.2: Implemented global external stylesheet (`styles.css`) featuring a custom dark mode and yellow accent palette.
+* v1.3: Applied CSS resets, base body rules, flexbox navigation layout, and responsive mobile media breakpoints.
 
 Rferences
 * Readers Den Comic Shop. Official Website and Store Information. Available online.
+
+Evidence:
+
+![Image](images/Screenshot 2026-09-25 184832.png)
+
+![Image](images/Screenshot 2026-09-25 185034.png)
+
+
+
+
+
+
+
